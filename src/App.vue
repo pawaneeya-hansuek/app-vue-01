@@ -15,19 +15,35 @@
         <li class="nav-item">
           <a class="nav-link" href="/customer">Customer</a>
         </li>
+
+         <li class="nav-item">
+          <a class="nav-link" href="/customer_crud">Customer Crud</a>
+        </li>
+
         <li class="nav-item">
           <a class="nav-link" href="/contact">Contact</a>
         </li>
+
          <li class="nav-item">
           <a class="nav-link" href="/type">Type</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/type_crud">Type</a>
+        </li>
+
          <li class="nav-item">
           <a class="nav-link" href="/employee">Employee</a>
         </li>
+
+        <li class="nav-item">
+          <a class="nav-link" href="/employee_crud">Employee Crud</a>
+        </li>
+
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Product
           </a>
+
           <ul class="dropdown-menu">
             <li><a class="dropdown-item" href="/product">product</a></li>
             <li><a class="dropdown-item" href="/product_api">product_api</a></li>
