@@ -49,6 +49,8 @@
             <li><a class="dropdown-item" href="/product_api">product_api</a></li>
             <li><hr class="dropdown-divider"></li>
             <li><a class="dropdown-item" href="/show_product">show_product</a></li>
+            <li><a class="dropdown-item" href="/product_crud">product_crud</a></li>
+            <li><a class="dropdown-item" href="/employee_crud_image">employee_crud_image</a></li>
 
           </ul>
         </li>
