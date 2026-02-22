@@ -1,6 +1,6 @@
 <template>
   <div class="container mt-4">
-    <h2 class="mb-3">รายชื่อพนักงาน</h2>
+    <h2 class="mb-3">ประเภทสินค้า</h2>
     
     <div class="mb-3">
       <button class="btn btn-primary" @click="openAddModal">
@@ -55,7 +55,7 @@
               </div>
 
               <button type="submit" class="btn btn-success">
-                {{ isEditMode ? "บันทึกการแก้ไข" : "เพิ่มพนักงาน" }}
+                {{ isEditMode ? "บันทึกการแก้ไข" : "เพิ่มประเภทสินค้า" }}
               </button>
             </form>
           </div>
